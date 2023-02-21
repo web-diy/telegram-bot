@@ -1,4 +1,4 @@
-module.expo = {
+module.exports = {
     gameOptions: {
         reply_markup: JSON.stringify({
             inline_keyboard: [
